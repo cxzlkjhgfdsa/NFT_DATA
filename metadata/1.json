@@ -1,27 +1,18 @@
 {
-  "name": "Constelink NFT #1",
-  "description": "Constellink's reward nft",
-  "image": "https://raw.githubusercontent.com/cxzlkjhgfdsa/NFT_DATA/main/img/1.png",
-  "dna": "063a66d71b5bca43673f15c9a704a1fcb551eb84",
-  "edition": 1,
-  "date": 1680505070224,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Black"
+  "title": "Constelink NFT #1",
+  "type" : "object",
+  "properties" : {
+    "name" : {
+        "type" : "string",
+        "description" : "Constelink NFT #1"
     },
-    {
-      "trait_type": "word",
-      "value": "word3"
+    "description" : {
+        "type" : "string",
+        "description" : "Constellink's reward nft"
     },
-    {
-      "trait_type": "gradation",
-      "value": "Gradation3"
-    },
-    {
-      "trait_type": "star",
-      "value": "star1"
+    "image" : {
+        "type" : "string",
+        "description" : "https://raw.githubusercontent.com/cxzlkjhgfdsa/NFT_DATA/main/img/1.png"
     }
-  ],
-  "compiler": "HashLips Art Engine"
+  }
 }
