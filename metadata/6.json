@@ -1,0 +1,27 @@
+{
+  "name": "Constelink NFT #6",
+  "description": "Constellink's reward nft",
+  "image": "https://raw.githubusercontent.com/cxzlkjhgfdsa/NFT_DATA/main/img/6.png",
+  "dna": "90caeb6cf66dea1b3c2f80a9fcbf857ca7376c02",
+  "edition": 6,
+  "date": 1680505070354,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "word",
+      "value": "word2"
+    },
+    {
+      "trait_type": "gradation",
+      "value": "Gradation9"
+    },
+    {
+      "trait_type": "star",
+      "value": "star4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
